@@ -6,6 +6,6 @@ tqdm
 cython
 yaml
 onnx
-nvidia-dali=1.5.0
+nvidia-dali==1.5.0
 onnxsim
 onnxruntime
